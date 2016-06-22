@@ -1,0 +1,14 @@
+layout_spectrum: 0.8294812585227191
+typography_spectrum: 0.37632569088600576
+color:
+  brandStrength: 0.13818185729905963
+  lightness: 0.2786166789010167
+  saturation: 0.3804493728093803
+  rhythmicContrast: 0.5430568475276232
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: 321Sell
