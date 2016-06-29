@@ -1,5 +1,6 @@
-layout_spectrum: 0.8294812585227191
 typography_spectrum: 0.37632569088600576
+content_rating:
+  adult: false
 color:
   brandStrength: 0.13818185729905963
   lightness: 0.2786166789010167
@@ -11,6 +12,7 @@ color:
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
-name: 321Sell
+layout_spectrum: 0.8294812585227191
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/abf797be-2bc1-4ef8-9b26-93c7e973b4f4.png
+name: 321Sell
