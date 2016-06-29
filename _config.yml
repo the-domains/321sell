@@ -6,9 +6,11 @@ color:
   saturation: 0.3804493728093803
   rhythmicContrast: 0.5430568475276232
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
 name: 321Sell
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/abf797be-2bc1-4ef8-9b26-93c7e973b4f4.png
